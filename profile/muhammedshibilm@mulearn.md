@@ -14,6 +14,6 @@
 
 - **Web Development Expertise**:Deepen proficiency in Django for robust backend development.Stay updated with the latest trends and advancements in web technologies.
 
--**Contribution to Open Source**:Contribute to open-source projects to showcase coding abilities.Collaborate with the global developer community for mutual growth.
+- **Contribution to Open Source**:Contribute to open-source projects to showcase coding abilities.Collaborate with the global developer community for mutual growth.
 
--**Mobile App Development Focus**:Further enhance skills in Flutter and Firebase for cross-platform app development.Contribute to the creation of innovative and user-friendly applications.
+- **Mobile App Development Focus**:Further enhance skills in Flutter and Firebase for cross-platform app development.Contribute to the creation of innovative and user-friendly applications.
