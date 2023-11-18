@@ -17,3 +17,8 @@
 - **Contribution to Open Source**:Contribute to open-source projects to showcase coding abilities.Collaborate with the global developer community for mutual growth.
 
 - **Mobile App Development Focus**:Further enhance skills in Flutter and Firebase for cross-platform app development.Contribute to the creation of innovative and user-friendly applications.
+
+
+#### As a Top 100 Member:
+
+- As a top 100 member, I can enhance my knowledge capacity. Through this event, I can also expand my network connections and more.
